@@ -5,7 +5,8 @@
 ساخت دمو , تغییر تگ موزیک , تغییر کاور موزیک
 
 
-#INSTALL
+INSTALL
+-----------
 ```sh
 sudo apt update
 sudo apt upgrade
@@ -19,18 +20,20 @@ sudo pip3 install mutagen
 
 سپس توکن خود را در فایل تگ ادیت وارد کنید
 
-#RUN
+RUN
+--------
 ```sh
 screen python3 tag.py
 ```
 
-#stop
+STOP
+-------
 ```sh
 pkill -f tag.py
 ```
 
 
-#Developer
+Developer
 -------
 [![https://telegram.me/IT_MKH](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-M.KH-blue.svg)](https://telegram.me/CRUEL)
 
